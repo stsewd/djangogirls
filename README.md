@@ -29,7 +29,7 @@ Para crear el token debemos seguir los siguientes pasos:
 
 ![](generated-token.png)
 
-Ahora sí, cuando ejecutes el comando `git push` te pedirá el usuario y contraseña.
+Ahora sí, cuando ejecutes el comando `git push -u origin master` te pedirá el usuario y contraseña.
 Ingresa tu nombre de usuario de GitHub y el token generado en el paso anterior como la contraseña.
 
 Eso es todo, ya puedes volver al tutorial oficial 😃.
