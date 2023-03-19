@@ -33,3 +33,12 @@ Ahora sí, cuando ejecutes el comando `git push -u origin master` te pedirá el 
 Ingresa tu nombre de usuario de GitHub y el token generado en el paso anterior como la contraseña.
 
 Eso es todo, ya puedes volver al tutorial oficial 😃.
+
+### ¿Por qué tuve que realizar este paso adicional?
+
+Por motivos de seguridad,
+GitHub ya no acepta que la contraseña ingresada sea la de la cuenta,
+sino que se debe generar un token para este procedimiento.
+
+Este cambio fue hecho a mediados del 2021,
+y el tutorial oficial de Django Girls aún no ha sido actualizado para reflejar este cambio.
