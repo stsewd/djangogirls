@@ -37,7 +37,7 @@ Eso es todo, ya puedes volver al tutorial oficial 😃.
 ### ¿Por qué tuve que realizar este paso adicional?
 
 Por motivos de seguridad,
-GitHub ya no acepta que la contraseña ingresada sea la de la cuenta,
+GitHub ya no acepta que la contraseña ingresada sea la de tu cuenta,
 sino que se debe generar un token para este procedimiento.
 
 Este cambio fue hecho a mediados del 2021,
