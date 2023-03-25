@@ -29,7 +29,7 @@ Para crear el token debemos seguir los siguientes pasos:
 
 ![](generated-token.png)
 
-Ahora sí, cuando ejecutes el comando `git push -u origin master` te pedirá el usuario y contraseña.
+Ahora sí, puedes ejecutar el comando `git push -u origin main` te pedirá el usuario y contraseña.
 Ingresa tu nombre de usuario de GitHub y el token generado en el paso anterior como la contraseña.
 
 Eso es todo, ya puedes volver al tutorial oficial 😃.
@@ -42,3 +42,7 @@ sino que se debe generar un token para este procedimiento.
 
 Este cambio fue hecho a mediados del 2021,
 y el tutorial oficial de Django Girls aún no ha sido actualizado para reflejar este cambio.
+
+Además, en lugar de usar la palabra `master`, usaste la palabra `main`.
+En el año 2020, GitHub cambió el cambio del nombre por defecto de la rama de nuevos proyectos
+de `master` a `main`, por lo cual ahora debes usar esta palabra en los comandos.
